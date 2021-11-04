@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nano950
 - 👀 I’m interested in machine learning and AI, game, app, and web development
-- 🌱 I’m currently learning python and html
+- 🌱 I’m currently learning Javascript and CSS
 - 💞️ I’m looking to collaborate on ... n/a
 - 📫 How to reach me ... n/a
 
