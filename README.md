@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nano950
+- 👋 Hi, I’m Dakota
 - 👀 I’m interested in machine learning and AI, game, app, and web development
-- 🌱 I’m currently learning Javascript,CSS, and Python
+- 🌱 I’m currently learning Javascript, and Python
 - 💞️ I’m looking to collaborate on ... n/a
-- 📫 How to reach me ... n/a
+- 📫 How to reach me: dakotahanks1020@gmail.com
 
 <!---
 Nano950/Nano950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
