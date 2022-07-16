@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dakota
 - 👀 I’m interested in machine learning and AI, game, VR, and web development
-- 🌱 I’m currently learning Javascript, and Python
+- 🌱 I’m currently learning Javascript, and PHP
 - 💞️ I’m looking to collaborate on ... n/a
 - 📫 How to reach me: dakotahanks1020@gmail.com
 
